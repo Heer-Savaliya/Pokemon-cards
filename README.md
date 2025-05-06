@@ -67,7 +67,7 @@ Welcome to **Heer Pokémon Cards**, a sleek and responsive web app where users c
 
 ---
 
-## 💡 Future Improvements (Optional)
+## 💡 Future Improvements
 Add favorite/save card functionality
 
 Add pagination or infinite scroll
