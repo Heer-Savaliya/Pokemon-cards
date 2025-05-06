@@ -53,14 +53,28 @@ Welcome to **Heer Pokémon Cards**, a sleek and responsive web app where users c
 
 ## 📁 Folder Structure (Overview)
 
-```bash
+      ```bash
 
-heerpokemoncards/
-├── public/
-├── src/
-│   ├── assets/         # Images or local icons
-│   ├── components/     # Reusable UI components (Card, SearchBar, etc.)
-│   ├── pages/          # Page views like Home
-│   ├── App.js          # Main component
-│   └── index.js        # Entry point
-└── package.json
+      heerpokemoncards/
+      ├── public/
+      ├── src/
+      │   ├── assets/         # Images or local icons
+      │   ├── components/     # Reusable UI components (Card, SearchBar, etc.)
+      │   ├── pages/          # Page views like Home
+      │   ├── App.js          # Main component
+      │   └── index.js        # Entry point
+      └── package.json
+
+---
+
+## 💡 Future Improvements (Optional)
+Add favorite/save card functionality
+
+Add pagination or infinite scroll
+
+Pokémon card detail modal/pop-up
+
+---
+
+## 🙌 Author
+Developed by Heer ❤️
